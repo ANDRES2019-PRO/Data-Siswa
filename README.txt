@@ -1,0 +1,2 @@
+-Untuk mendaftarkan sistem loginnya gunakan TINKER
+-Masih tahap awal pembelajaran
